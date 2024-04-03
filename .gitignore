@@ -2,7 +2,7 @@ core.Microsoft*
 core.mongo*
 core.python*
 env.py
-.env
+*.env
 __pycache__/
 *.py[cod]
 node_modules/
@@ -10,4 +10,4 @@ node_modules/
 cloudinary_python.txt
 *.sqlite3
 *.pyc
-user_keys.txt
+vars/
